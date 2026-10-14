@@ -24,8 +24,7 @@
 
 ## 🖥️ معاينة حية للمشروع
 يمكنك تصفح الموقع مباشرة عبر الرابط التالي:  
-👉 [رابط الموقع على GitHub Pages](https://reemmoq12-source.github.io/ocean-first-agency/)  ---
-
+👉 [رابط الموقع على GitHub Pages](https://reemmoq12-source.github.io/ocean-first-agency./)  
 ## ⚙️ طريقة التشغيل محلياً على جهازك
 إذا أردت تشغيل المشروع محلياً:
 1. قم بتحميل أو استنساخ المستودع (Clone / Download ZIP).
